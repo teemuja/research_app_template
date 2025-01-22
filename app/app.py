@@ -12,7 +12,7 @@ button[title="View fullscreen"]{
 st.header("Title",divider='green')
 
 
-#sidebar footer
+#footer
 st.markdown('---')
 footer_title = '''
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/teemuja/)
